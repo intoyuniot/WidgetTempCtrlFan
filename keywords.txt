@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+ WidgetWaterLevel   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+getFanSwitch  KEYWORD2
+displayFanStatus  KEYWORD2
+control  KEYWORD2
+displayTemperature  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+

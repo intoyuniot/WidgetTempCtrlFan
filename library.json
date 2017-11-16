@@ -1,0 +1,17 @@
+{
+    "name": "WidgetTempCtrlFan",
+    "version": "1.0.0",
+    "keywords": "Widget,TempCtrl,Fan",
+    "description": "温控风扇应用库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/WidgetTempCtrlFan.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
